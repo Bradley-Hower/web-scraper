@@ -1,8 +1,8 @@
 # LAB - Class 17
 
-## Project: Project Name Here
+## Project: Web Scraping
 
-## Author: Student/Group Name
+## Author: Bradley Hower
 
 A simple Wikipedia scraper which locates the citation needed paragraphs of a wikipedia article, counts them and prints them out.
 
