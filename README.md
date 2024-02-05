@@ -17,3 +17,7 @@ Made possible using Requests and Beautiful Soup 4.
 [https://requests.readthedocs.io/en/latest/](https://requests.readthedocs.io/en/latest/)
 
 [https://beautiful-soup-4.readthedocs.io/en/latest/#](https://beautiful-soup-4.readthedocs.io/en/latest/#)
+
+## Run
+
+To run enter `python3 scraper.py`
